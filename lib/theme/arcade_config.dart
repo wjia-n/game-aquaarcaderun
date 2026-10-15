@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'aquaarcaderundonut',
   tip2Id: 'aquaarcaderunmilkshake',
-  tip1Label: '💛 Buy me a donut',
-  tip2Label: '💛 Buy me a milkshake',
+  tip1Label: '💛 Buy Aqua Arcade Run a donut',
+  tip2Label: '💛 Buy Aqua Arcade Run a milkshake',
 );
